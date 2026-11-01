@@ -1,0 +1,23 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# Variables sensibles
+.env
+.env.*
+
+# Fichiers temporaires
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Paramètres locaux de l'éditeur
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
